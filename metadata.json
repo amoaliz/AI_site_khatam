@@ -1,0 +1,6 @@
+{
+  "name": "Professional Tech Portfolio",
+  "description": "پورتال هلدینگ فناوری و وب‌سایت جامع تجاری گروه آریا پایتخت با قابلیت نمایش پروژه‌های اقماری، خط‌زمانی پیشرفت، شورای راهبری، ماشین محاسبه‌گر پیش‌فاکتور هوشمند و پنل مدیریت همگام‌سازی دمو.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
